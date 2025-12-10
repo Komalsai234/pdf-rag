@@ -3,3 +3,5 @@ langchain_text_splitters
 streamlit
 langchain_groq
 python-dotenv
+sentence-transformers
+faiss-cpu
